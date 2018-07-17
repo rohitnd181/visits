@@ -10,7 +10,7 @@
   "repository": "https://github.com/rohitnd181/visits.git",
   
   "scripts": {
-    "postdeploy": "bundle exec rake bootstrap"
+    "postdeploy": "script1"
   },
   "env": {
     "SECRET_TOKEN": {
