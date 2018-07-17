@@ -1,0 +1,16 @@
+{
+  "name": "visits",
+  "scripts": {
+    "postdeploy": "script1"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
