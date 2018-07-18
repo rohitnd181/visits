@@ -1,0 +1,14 @@
+{
+  "name":"qualitlabs",
+  "scripts":{
+    "postdeploy":"script1.groovy"
+  },
+  "env":{
+    "HEROKU_APP_NAME": {
+      "required": true
+    },
+    "HEROKU_PARENT_APP_NAME": {
+      "required": true
+    }
+  }
+}
