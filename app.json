@@ -1,0 +1,17 @@
+{
+  "name": "visits",
+  "scripts": {
+    "postdeploy": "script1.groovy"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "herokuconnect",
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ]
+}
